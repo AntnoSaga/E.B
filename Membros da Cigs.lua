@@ -1,3 +1,3 @@
 local module = {}
 
-module.Cigs = { ["Comandante"] = { Name = {"[CIGS] Comadante"}, Players = {"logui122_X"} } }
+module[1] = { ["Comandante"] = { Name = {"[CIGS] Comadante"}, Players = {"logui122_X"} } }
